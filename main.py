@@ -13,4 +13,4 @@ async def on_ready():
 async def test(ctx):
     await ctx.send("TEST COMPLETE! IF YOU READ THIS THE BOT IS WORKING! CONGRATULATIONS!")
 
-client.run('MTIwNTE1OTM5MjE0MDMyOTAxMA.G-ccUC.wAm6uA2kYFUyWz3MwSNIY_sjz9LCD7JJ_s7n8A')
+client.run('TOKEN')
